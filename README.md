@@ -22,7 +22,11 @@ Then install and set up puma-dev
 
 ### Install Static web template
 
+<<<<<<< HEAD
     $ git clone https://github.com/tokzk/static-web.git
+=======
+    $ git clone git@github.com:tokzk/static-web.git
+>>>>>>> Initial version
 	$ mv static-web example
     $ cd example
 	$ bundle install
